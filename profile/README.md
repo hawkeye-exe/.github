@@ -2,7 +2,6 @@
 Hackathon team from Galgotias University.
 
 ## Team Members
-- Shaunaki Singh – CSE Core
 - Alwin Mathew – AI & Data Science
 - Noman Aqil – AI & Data Science
 - Om Singh – CSE Core
