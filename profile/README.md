@@ -3,6 +3,7 @@ Hackathon team from Galgotias University.
 
 ## Team Members
 - Alwin Mathew – AI & Data Science
+- Kunal Goswami - AI & Data Science
 - Noman Aqil – AI & Data Science
 - Om Singh – CSE Core
 
